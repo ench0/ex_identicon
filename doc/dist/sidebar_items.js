@@ -1,0 +1,1 @@
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"modules":[{"id":"Identicon","title":"Identicon","functions":[{"id":"hash_input/1","anchor":"hash_input/1"},{"id":"main/1","anchor":"main/1"}]}],"protocols":[]}
